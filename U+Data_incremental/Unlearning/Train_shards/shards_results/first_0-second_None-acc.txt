@@ -1,0 +1,2 @@
+shard-first_0-second_None number of prarams 812313
+epoch | train_acc | test_acc |
