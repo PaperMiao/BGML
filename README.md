@@ -1,7 +1,7 @@
 # BGML
 
-Five tasks 1+4
+Five tasks (1+4)
 
-Regular
+1: Regular
 
-U+Data_incremental include: unlearning, Data-IR(by changing U+D, we can get), Class-IR(class_incremental), Memory(U+D)
+4: U+Data_incremental include: unlearning, Data-IR(by changing U+D, we can get), Class-IR(class_incremental), Memory(U+D)
